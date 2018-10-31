@@ -18,6 +18,8 @@ For this task, we compared several models and chose [U-Net model](https://www.ka
 * **U-Net** is highly suitable for binary segmentation of images, which is exactly our task: binary segmentation for is or is not a ship.
 
 ## Webpage
+* For frontend, we build it by `bootstrap`. For backend, we build it by `python-flask`.
+* The web server is deployed on [AWS Elastic Beanstalk](https://aws.amazon.com/cn/elasticbeanstalk/).
 
 ## Usage
 ### 1. Use our webpage
